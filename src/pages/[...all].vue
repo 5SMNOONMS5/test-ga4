@@ -4,7 +4,7 @@ const { t } = useI18n()
 
 <template>
   <div>
-    {{ t('not-found') }}
+    Dynamic router
   </div>
 </template>
 

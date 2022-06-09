@@ -5,7 +5,7 @@ const name = $ref(user.savedName)
 const router = useRouter()
 const go = () => {
   if (name)
-    router.push(`/hi/${encodeURIComponent(name)}`)
+    router.push(`/router-as-its-name/${encodeURIComponent(name)}`)
 }
 
 const { t } = useI18n()
@@ -18,7 +18,7 @@ const { t } = useI18n()
     </div>
     <p>
       <a rel="noreferrer" href="https://github.com/antfu/vitesse" target="_blank">
-        Vitesse
+        ISB GA4 Test
       </a>
     </p>
     <p>

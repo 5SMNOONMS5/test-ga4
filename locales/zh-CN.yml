@@ -1,14 +1,14 @@
 button:
-  about: 关于
+  about: 關於
   back: 返回
   go: 确定
-  home: 首页
-  toggle_dark: 切换深色模式
-  toggle_langs: 切换语言
+  home: 首頁
+  toggle_dark: 深色模式
+  toggle_langs: 切換
 intro:
-  desc: 固执己见的 Vite 项目模板
-  dynamic-route: 动态路由演示
+  desc: Adopt Vue 3 Tech
+  dynamic-route: 動態 router
   hi: 你好，{name}
   aka: 也叫
-  whats-your-name: 输入你的名字
+  whats-your-name: 輸入你的名字
 not-found: 未找到页面
